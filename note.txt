@@ -1,0 +1,11 @@
+veriable
+data type------int  - %d
+               float - %f
+               char - %c
+
+declaration ----> declrian the veriable after int main inside the brace eq.int a,
+initialization ----> assiging the value for the veriable by ourseloves like eq. a=10
+
+
+
+there are something called an escape character "&d" 
