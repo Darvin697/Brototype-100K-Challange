@@ -8,4 +8,19 @@ initialization ----> assiging the value for the veriable by ourseloves like eq. 
 
 
 
-there are something called an escape character "&d" 
+there are something called an escape character "&d"
+
+
+operators  - different type of operators
+
+
++,-,*,/   ---- mathematical operators
+
+==,<,>,<=,>= ----- relational operators
+
+&&,||,! ---- logical operators
+
+=,+=,-= --- assignment operators
+
+== -- equalto
+= -- assign to 
