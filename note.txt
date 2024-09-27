@@ -126,3 +126,29 @@ Used to convert one data type to another:
 
 switch statement -----> here we can put a constant as like 1,2,3
                         then its maches with the case number 
+
+
+
+
+preincremint = ++a before increasing the value 
+postincriment = a++  after increasing the value 
+
+
+predecriment 
+postdecriment
+
+
+
+
+loops -
+    for 
+    while
+    dowhile
+
+    for repated task
+
+
+initialization -first
+condition      -second
+updation       -third  
+these are the condition body for the loops
