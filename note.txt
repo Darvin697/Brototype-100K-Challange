@@ -152,3 +152,14 @@ initialization -first
 condition      -second
 updation       -third  
 these are the condition body for the loops
+
+
+
+
+SOARTING   --- Bubble Sort
+               selection sort 
+               quick sort
+               bucket sort 
+
+selection sort 
+take a postion and locks it and compire with other and do swapping to other if other values are lesser than the first one then check with this kind to all positions thats how the zeroth popsition becomes the lowest of them after that it locks first position and do this kind of checking               
