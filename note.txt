@@ -222,3 +222,7 @@ it should be declared before  the main function like int sum(int,int);
 and also it gives a return value so we provide type of the returning value to the start of the function so it would like int sum(int num1,int num2);
 
 4.function without argument with return value 
+eq-function-4.c
+we dose not provide argument but we get return value 
+it also should be declared before main function like int sum();
+and also it should be in the first 
