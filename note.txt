@@ -163,3 +163,62 @@ SOARTING   --- Bubble Sort
 
 selection sort 
 take a postion and locks it and compire with other and do swapping to other if other values are lesser than the first one then check with this kind to all positions thats how the zeroth popsition becomes the lowest of them after that it locks first position and do this kind of checking               
+
+
+string
+character array is called character array 
+%s
+initialization - char name[6];
+no &  in getting  and \0 in last
+
+we can assingn valuse ----> name[] = "Darvin"
+
+
+Multi-dimensal array
+we can store values in multidimensonal array
+declaration - int a[3][3]l;
+rows and coloum are in multidimensonal array
+
+
+
+
+Functions
+Blocks of codes is called functions 
+repated lines of code can be blocked into a group  called function
+ there are 4 type of Functions
+
+argument/parameter-----> values we passes with calling the function 
+return-value ------> the things that returns after the program or line of code excuated 
+
+main()
+is the function that excuites first in a program
+we can call other frunctions from inside a function
+
+if sum is a function we can call it with "void sum()"
+
+
+return type should be spefied before we calling a function
+if its dosenot returns anything then we can use void
+  if its return a number then sould have to use int sum() 
+
+
+
+Types of function 
+
+1.function without argument without return value 
+eq-function-type-1.c
+we didint provided any argument and also it dose not returrned any thing
+if its a void function then you have to declare the function before the main function like "void sum();"
+
+2.function with argument without return value 
+eq-function-type-2.c
+we provid argument but we didnot getting any return value 
+it can be declared in the program before the main function using int void sum(int,int);
+
+3.function with argument with return value 
+eq-function-type-2.c
+we provide argument we also get return value 
+it should be declared before  the main function like int sum(int,int);
+and also it gives a return value so we provide type of the returning value to the start of the function so it would like int sum(int num1,int num2);
+
+4.function without argument with return value 
