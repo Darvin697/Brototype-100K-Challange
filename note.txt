@@ -226,3 +226,10 @@ eq-function-4.c
 we dose not provide argument but we get return value 
 it also should be declared before main function like int sum();
 and also it should be in the first 
+
+
+java oops 
+class is the base model ---> things that created from class is objects 
+propraties things in class - veriables
+methords Functions 
+
