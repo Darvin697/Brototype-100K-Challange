@@ -233,3 +233,132 @@ class is the base model ---> things that created from class is objects
 propraties things in class - veriables
 methords Functions 
 
+
+Classes and Objects in Object-Oriented Programming
+
+In object-oriented programming (OOP), a class is like a blueprint or template for creating objects. It defines the properties (attributes) and behaviors (methods) that objects of that class will have. An object is an instance of a class, meaning it's a concrete realization of the class's blueprint.   
+
+Key Concepts:
+
+Class:
+Defines the structure and behavior of objects.
+Contains attributes (variables) and methods (functions).
+Acts as a blueprint for creating objects.
+Object:
+An instance of a class.
+Has its own set of values for its attributes.
+Can invoke the methods defined in its class.
+
+
+
+
+
+
+
+Instance Variables in Java
+
+Instance variables, also known as member variables or fields, are variables declared within a class. They define the state or characteristics of individual objects created from that class. Each object has its own copy of these variables, allowing them to hold different values.   
+
+Key Points:
+
+Declared within a class: Instance variables are defined inside the class body, typically at the beginning.
+Belong to individual objects: Each object created from the class has its own instance of these variables.
+Hold unique values: Different objects can have different values for their instance variables.
+Accessed using the . operator: To access an instance variable 
+
+
+
+
+STATIC 
+A static methord can only access directly a static methord or a static veriable 
+has a common memory space consecpt
+
+
+
+Constructors
+Constructors are special methods in Java that are used to initialize objects. They are automatically called when an object is created using the new keyword.
+
+Key Characteristics of Constructors:
+Same name as the class: A constructor must have the same name as the class it belongs to.
+No return type: Constructors do not have a return type, not even void.
+Automatically called: A constructor is automatically invoked when an object is created using the new keyword.
+Can be overloaded: A class can have multiple constructors with different parameters, a concept known as constructor overloading.
+
+objects for a class can be created inside the class it self and can be called inside the main function
+
+
+this is used  to assign a value of local veriable to a global veriable/instance veriable  if a is local veriable inside a methord  we can use this.a=a;
+to assign that a to a global veriable  x in the class
+
+INHERISTANCE
+
+there are three type of inheritance 
+
+single 
+multilevel
+hirarckial
+
+
+innheristance - parent class/base class    ---> B extends A 
+                childclass/subclass
+
+if two class A and B -----> B ineristance from AB ave a copy of A and also B has its own code 
+if we create objects for b in another class we can acess both elements the a and b  
+
+
+
+Polymorphism 
+is called that one thing is used for different things 
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+
+methord overloading 
+here using arguments number or argument type a function is used for different use cases
+
+methord overriding 
+if two class A and B having same methords void display if and B inherist from A and if we create an object for B in main class then which display comes 
+dispaly methord in B only comes display methord in A hides and only B comes its called methord overriding 
+
+
+super
+in methord overriding when we have to call the base class we can use the super keyword in the subclass like  i want to call a function in B called void display i have to use 
+suuper.display();
+and also i have to call the veriable in base class i can use like super.a;
+
+in constructers when we have argument constructor and defult constructors if we call argument constructor it only works subclass argument constructor and base class default constructor 
+
+if u wanted to call argument constructor of base class we can use super(pass the argument);
+before the argument constructor of base class 
+
+
+package
+we can add as many class into a package
+and can be called in another file by importing it  and can create objects for the class
+eq: the scanner function in java we import an package  called java.utl.scanner
+
+
+Acess specifiers
+public
+privite
+protected
+default
+
+exception
+run time errors these errors are make by when running the code
+
+we can handle the exceptions like
+try{
+}
+catch blocks are created here
+
+
+thread
+running multiple process at a time
+1.extended thread class
+2.implemnted runnable interface
+
+
+
+
+
+
+

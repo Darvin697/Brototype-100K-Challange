@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Brototype-100K-challange.iml" filepath="$PROJECT_DIR$/Brototype-100K-challange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oops/Calculation/Calculation.iml" filepath="$PROJECT_DIR$/java-oops/Calculation/Calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oops/Dog/Dog.iml" filepath="$PROJECT_DIR$/java-oops/Dog/Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oops/Calculation/Hello/Hello.iml" filepath="$PROJECT_DIR$/java-oops/Calculation/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oops/Calculation/MathematicalOperation/MathematicalOperation.iml" filepath="$PROJECT_DIR$/java-oops/Calculation/MathematicalOperation/MathematicalOperation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oops/Calculation/Sample/Sample.iml" filepath="$PROJECT_DIR$/java-oops/Calculation/Sample/Sample.iml" />
+    </modules>
+  </component>
+</project>
